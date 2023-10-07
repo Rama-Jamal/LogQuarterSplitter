@@ -37,3 +37,4 @@ This will start real-time monitoring and log analysis.
 3. If a `targetWord` is specified, the script will also search for and log occurrences of that word.
 
 4. The script will create log files with statistics and update them as logs are analyzed.
+Happy log monitoring!
